@@ -1,0 +1,76 @@
+#cabeza{
+    background:  rgb(255, 225, 0);
+    height: 60px;
+    border-color: black;
+  }
+
+ 
+
+  #nombreuser{
+      color: white;
+
+  }
+
+#menu1{
+    background: black;
+  }
+
+  #menu2{
+    background: black;
+  }
+
+  #menu3{
+    background:black;
+  }
+  #menu4{
+    color: black;
+  }
+
+  #menu5{
+    color: black;
+  }
+  #logo1{
+    background:rgb(255, 225, 0);
+    color:black ;
+  }
+
+  #fondo1{
+     
+    background-size:1500px 710px;
+     background-image:url("intro.jpg") ;
+  }
+
+  #fondotitulo{
+      background: rgb(216, 216, 216);
+      color: black;
+
+  }
+
+  #contenedortitulo{
+      height: 40px;
+  }
+
+  #titulo1{
+      font-size: 30px;
+
+   
+}
+
+
+#tabla1{
+   
+  margin-top: 50px;
+    border-radius: 10px;
+}
+
+#colorform3{
+  background: white;
+ 
+}
+#colorform4{
+  border-color: black;
+ 
+}
+
+
+
